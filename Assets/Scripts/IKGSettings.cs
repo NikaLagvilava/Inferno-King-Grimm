@@ -167,7 +167,7 @@ namespace Assets.Scripts
 		{
 			get
 			{
-				return "Inferno King Grimm";
+				return "Inferno Tyrant Grimm";
 			}
 		}
 
